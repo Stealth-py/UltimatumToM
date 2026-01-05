@@ -1,2 +1,2 @@
 # UltimatumToM
-Code repository for measuring the behavioral alignment of LLMs with humans, in Ultimatum Games, using ToM reasonings and prosocial behaviors.
+Code repository for studying the effects of Theory of Mind reasoning and Prosocial Beliefs on steering human-aligned behaviors in LLMs under controlled economic games settings of Ultimatum Games.
